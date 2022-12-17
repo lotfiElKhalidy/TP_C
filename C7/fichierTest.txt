@@ -1,0 +1,4 @@
+SDD
+C and C++
+Physics is fun
+SSH -X 
